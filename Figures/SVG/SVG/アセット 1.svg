@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 471.8 246.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #231815;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <rect class="cls-1" x="214.03" y="186.81" width="63.2" height="54.67" transform="translate(31.49 459.78) rotate(-90)"/>
+    <polygon class="cls-1" points="245.63 182.54 217.78 140.89 273.48 140.89 245.63 182.54"/>
+    <rect class="cls-1" x="376.61" y="26.38" width="94.69" height="69.03"/>
+    <circle class="cls-1" cx="49.84" cy="60.89" r="49.34"/>
+    <rect class="cls-1" x="161.56" y="54.7" width="168.14" height="12.39" transform="translate(21 177.44) rotate(-41.35)"/>
+    <line class="cls-1" x1="376.61" y1="60.89" x2="99.17" y2="60.89"/>
+    <line class="cls-1" x1="245.63" y1="140.89" x2="245.63" y2="60.89"/>
+  </g>
+</svg>
