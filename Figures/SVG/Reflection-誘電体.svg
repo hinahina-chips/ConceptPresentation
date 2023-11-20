@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1099 819.41">
+  <text/>
+  <text/>
+  <text/>
+  <polyline points="60 197 548 685 533 731 609 731 644 674 727 671 804 676 997 493" fill="none" stroke="red" stroke-miterlimit="10"/>
+  <line x1="105" y1="197" x2="639" y2="731" fill="none" stroke="#d0eb00" stroke-miterlimit="10"/>
+  <polyline points="141 197 654 705 555 696 442 719 346 726 383 694 245 530" fill="none" stroke="#009100" stroke-miterlimit="10"/>
+  <line x1="178" y1="191" x2="718" y2="726" fill="none" stroke="#0500eb" stroke-miterlimit="10"/>
+  <line x1="29" y1="630" x2="1028" y2="630" fill="none" stroke="#000" stroke-miterlimit="10"/>
+  <line x1="29" y1="743" x2="1028" y2="743" fill="none" stroke="#000" stroke-miterlimit="10"/>
+  <polygon points="1000.4 493.43 965.87 499.71 997 528.36 1000.4 493.43" fill="red"/>
+  <polygon points="718.13 726.25 713.28 691.5 683.37 721.41 718.13 726.25" fill="#0013ff"/>
+  <polygon points="640.83 730.84 635.99 696.09 606.08 726 640.83 730.84" fill="#d7ff00"/>
+  <polygon points="244.04 525.66 243.91 560.75 277.76 535.37 244.04 525.66" fill="#009609"/>
+  <text transform="translate(0 712.36)" font-family="KozGoPr6N-Regular-90ms-RKSJ-H, &apos;Kozuka Gothic Pr6N&apos;" font-size="72"><tspan x="0" y="0">Material</tspan></text>
+  <text transform="translate(808.9 597.79)" font-family="KozGoPr6N-Regular-90ms-RKSJ-H, &apos;Kozuka Gothic Pr6N&apos;" font-size="72"><tspan x="0" y="0">Diffuse</tspan></text>
+  <line x1="493" y1="630" x2="854" y2="214" fill="red" stroke="red" stroke-miterlimit="10"/>
+  <line x1="538" y1="630" x2="902" y2="214" fill="#d6ff00" stroke="#dcff00" stroke-miterlimit="10"/>
+  <line x1="578.26" y1="630" x2="943" y2="214" fill="#008a00" stroke="#007d05" stroke-miterlimit="10"/>
+  <line x1="621.1" y1="630" x2="987.76" y2="214" fill="#0000f3" stroke="#0000f3" stroke-miterlimit="10"/>
+  <text transform="translate(599.52 389.21)" font-family="KozGoPr6N-Regular-90ms-RKSJ-H, &apos;Kozuka Gothic Pr6N&apos;" font-size="72"><tspan x="0" y="0">Specular</tspan></text>
+  <text transform="translate(643.26 795)" font-family="KozGoPr6N-Regular-90ms-RKSJ-H, &apos;Kozuka Gothic Pr6N&apos;" font-size="72"><tspan x="0" y="0">Absorb</tspan></text>
+  <text/>
+  <text transform="translate(83.5 515.14)" font-family="KozGoPr6N-Regular-90ms-RKSJ-H, &apos;Kozuka Gothic Pr6N&apos;" font-size="72"><tspan x="0" y="0">Scattering</tspan></text>
+</svg>
